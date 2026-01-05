@@ -127,14 +127,19 @@ aws-ec2-apache-auto-healing/
 
 ---
 
-## Screenshots
+## Execution Proof
 
-The `screenshots/` folder contains proof of execution:
+### Website Running
+![Website Running](screenshots/website-running.png)
 
-* Apache service status
-* Website availability
-* Cron job configuration
-* Auto-healing log output
+### Cron Job Execution
+![Cron Job](screenshots/cron-job.png)
+
+### Auto-healing Script Logs
+![Auto Healing](screenshots/auto-healing-log.png)
+
+### Apache Status Page
+![Apache Status](screenshots/apache-status.png)
 
 ---
 
